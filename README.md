@@ -22,11 +22,3 @@ I'm a passionate **Full-Stack Developer** knowing how to **digital marketing**.
 
 #### My Work:
 ![image](https://user-images.githubusercontent.com/38601123/125105600-35e7a800-e111-11eb-8f44-cabaa38f60be.png)
-
-#### Instagram Automation
-<table>
-    <tr>
-        <td ><center><img src="https://user-images.githubusercontent.com/38601123/128362329-9c4b7047-928a-4577-881d-192d2cfc8ebc.PNG">Fig. sharing vocabulary of movies</center></td>
-        <td ><center><img src="https://user-images.githubusercontent.com/38601123/128362635-39847fa2-6b1b-4d59-9550-e40ced240714.PNG">Fig. movie with subtitles</center></td>
-    </tr>
-</table>
