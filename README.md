@@ -18,7 +18,7 @@ I'm a passionate **Full-Stack Developer** knowing how to **digital marketing**.
 - DevOps: Docker
 - Machine Learning: TensorFlow
 - Web scraping: Selenium, Beautifulsoup, Scrapy
-- Digital Marketing: SEO, Blogging, Email marketing
+- Digital Marketing: SEO, Blogging, Email marketing, affiliate marketing
 
 #### My Work:
 ![image](https://user-images.githubusercontent.com/38601123/125105600-35e7a800-e111-11eb-8f44-cabaa38f60be.png)
