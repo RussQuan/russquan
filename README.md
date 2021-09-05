@@ -1,6 +1,7 @@
 ### Hi there, I'm YuQuan.
 I'm a passionate **Full-Stack Developer** knowing how to **digital marketing**.  
 🍻 Be an Happy Indie Hacker.  
+Trying to build a SaaS without any funding.  
 
 ![](https://komarev.com/ghpvc/?username=russquan)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/russquan)
