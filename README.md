@@ -15,6 +15,7 @@ Personal Goal： UX Engineer = UX/UI Designer + Full Stack Developer
 
 - Front-end: HTML, CSS, JavaScript, React, Vue, Bootstrap
 - Back-end: Django, Python
+- UX/UI: Figma, illustrator, PhotoShop (Wireframe, Mockup, Prototype)
 - Database: MySQL, PostgreSQL, Firebase
 - Framework: Wordpress
 - Web Hosting: Linode
