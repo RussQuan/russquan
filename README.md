@@ -25,3 +25,8 @@ Personal Goal： UX Engineer = UX/UI Designer + Full Stack Developer
 
 #### My Work:
 ![image](https://user-images.githubusercontent.com/38601123/125105600-35e7a800-e111-11eb-8f44-cabaa38f60be.png)
+
+# New Released - personal works
+**Rain or Sun**
+![MacBook Pro - 首頁](https://user-images.githubusercontent.com/38601123/136381249-4ac58030-77ae-4dd7-867a-b763b6afbe4d.png)
+
