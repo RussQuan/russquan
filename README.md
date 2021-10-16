@@ -5,11 +5,12 @@ Trying to build a SaaS without any funding.
 
 Personal Goal： UX Engineer = UX/UI Designer + Full Stack Developer  
 
+#### I'm a Dev Nomad.
 Do two things in my life:  
-I'm a Dev Nomad.
 1. 👨‍💻 Build SaaS to realease my time while earning money.
 2. 🏝️ Travel to explore the world.
 
+#### Feel free to connect with me.
 ![](https://komarev.com/ghpvc/?username=russquan)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/russquan)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuquan-ou-a38597199/)
