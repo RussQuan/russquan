@@ -3,12 +3,18 @@ I'm a passionate **Full-Stack Developer** knowing how to **digital marketing**.
 🍻 Be an Happy Indie Hacker.  
 Trying to build a SaaS without any funding.  
 
-Personal Goal： UX Engineer = UX/UI Designer + Full Stack Developer
+Personal Goal： UX Engineer = UX/UI Designer + Full Stack Developer  
+
+Do two things in my life:  
+I'm a Dev Nomad.
+1. 👨‍💻 Build SaaS to realease my time while earning money.
+2. 🏝️ Travel to explore the world.
 
 ![](https://komarev.com/ghpvc/?username=russquan)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/russquan)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuquan-ou-a38597199/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:imyq.ou@gmail.com)
+[![Facebook](https://img.shields.io/badge/-facebook-3871c1?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/f123006)
 
 
 #### My Tech Stack:
