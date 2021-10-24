@@ -4,7 +4,7 @@ Please feel free to contant: imyq.ou@gmail.com
 Give me a chance maybe I could help you to build a SaaS that needed by the Chinese market.
 ```
 
-<a href="https://www.facebook.com/f123006"><img align="left" width="500px" height="500px" alt="My skills to build a SaaS" src="https://user-images.githubusercontent.com/38601123/138595894-1a58d3c2-cefd-40a1-aa2d-9fc1c083fb0f.png"></a>
+<a href="https://www.facebook.com/f123006"><img align="left" width="500px" height="auto" alt="My skills to build a SaaS" src="https://user-images.githubusercontent.com/38601123/138595894-1a58d3c2-cefd-40a1-aa2d-9fc1c083fb0f.png"></a>
 
 ### Hi there, I'm YuQuan.
 I'm a passionate **Full-Stack Developer** knowing how to **digital marketing**.  
