@@ -25,7 +25,7 @@ Do two things in my life:
 #### My Tech Stack:
 
 - Front-end: HTML, CSS, JavaScript, React, Vue, Bootstrap
-- Back-end: Django, Python
+- Back-end: Django, Python, PHP
 - UX/UI: Figma, illustrator, PhotoShop (Wireframe, Mockup, Prototype)
 - Database: MySQL, PostgreSQL, Firebase
 - Framework: Wordpress
