@@ -1,7 +1,6 @@
 ```
 #Open to work from any conuntry.
 Please feel free to contant: imyq.ou@gmail.com
-Give me a chance maybe I could help you to build a SaaS that needed by the Chinese market.
 ```
 
 ### Hi there, I'm YuQuan.
