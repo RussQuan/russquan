@@ -10,7 +10,7 @@ Trying to build a SaaS without any funding.
 
 #### I'm a Dev Nomad.
 Do two things in my life:  
-1. 👨‍💻 Build SaaS to realease my time while earning money.
+1. 👨‍💻 Build SaaS to release my time while earning money.
 2. 🏝️ Travel to explore the world.
 
 #### Feel free to connect with me.
