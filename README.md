@@ -1,6 +1,6 @@
 ```
 #Open to work from any conuntry.
-Please feel free to contant: imyq.ou@gmail.com
+Please feel free to contant: contact@imyq.co
 ```
 
 ![image](https://user-images.githubusercontent.com/38601123/208615258-626eed2e-96b0-4f58-af09-a1b1ce840cba.png)
